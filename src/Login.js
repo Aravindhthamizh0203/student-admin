@@ -13,7 +13,8 @@ function Login() {
                     <div className="card o-hidden border-0 shadow-lg my-5">
                         <div className="card-body p-0">
                             <div className="row">
-                                <div className="col-lg-6 d-none d-lg-block bg-login-image"></div>
+                                <div className="col-lg-6 d-none d-lg-block">
+                                    <img src='https://i.pinimg.com/originals/f3/ee/ca/f3eecab89ed37a8afd2f4beb1b6779cb.png' style={{ width: "35rem" }} alt='schoolimage' />                     </div>
                                 <div className="col-lg-6">
                                     <div className="p-5">
                                         <div className="text-center">
