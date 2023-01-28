@@ -1,7 +1,6 @@
-import React, { useEffect, useState, useContext } from 'react'
+import { useEffect, useState, useContext } from 'react'
 import axios from 'axios';
 import UserContext from './usercontext';
-import { Params } from 'react-router-dom';
 
 
 function Listview() {
